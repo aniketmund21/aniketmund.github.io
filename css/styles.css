@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+h1{
+    margin-top: 0px;
+}
+.name-container{
+   
+    background-color: #E4F9F5;
+}
+
+.top-container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.bottom-container{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.cloud{
+    height: 100px;
+    width: 150px;
+}
+
+.mountain{
+    height: 400px;
+    width: 800px;
+}
